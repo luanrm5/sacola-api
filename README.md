@@ -1,11 +1,11 @@
 <h1>Sacola API</h1>
 
-Sacola API para Servir uma Aplicação com Domínio de Delivery
+Sacola API para Servir uma Aplicação com Domínio de Delivery.
 
 <h3>Features</h3>
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Incluir itens na sacola<br></li>
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Visualizar sacola<br></li>
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Fechar sacola<br></li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Incluir itens na sacola;<br></li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Visualizar sacola;<br></li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Fechar sacola.<br></li>
 
 
 
